@@ -1,0 +1,6 @@
+com\hsj\supermybatis\demo\entity\UserInfo.class
+com\hsj\supermybatis\demo\dao\IUserInfoDao.class
+com\hsj\supermybatis\demo\service\IUserInfoService.class
+com\hsj\supermybatis\demo\dao\impl\UserInfoDaoImpl.class
+com\hsj\supermybatis\demo\service\impl\UserInfoServiceImpl.class
+com\hsj\supermybatis\demo\SuperMybatisDemoApplication.class
